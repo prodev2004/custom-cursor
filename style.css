@@ -1,0 +1,29 @@
+/* SUBSCRIBE ===> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg */
+/* SUBSCRIBE ===> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg */
+/* SUBSCRIBE ===> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #151515;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    cursor: url(images/hat3.png), pointer;
+}
+/* You can edit your images with any editor (I used photoshop) but remember it's size is prefered to be 32x32. Like this hat3.png... */
+
+/* Let's try hat2.png which has a 100x100 size... As you can see it works but it's too large. */
+
+/* Now let's try the hat.png which has a 503x314 size */
+/* As you can see it doesnt work... reason? */
+/* Because the max format for the image cursor is 128x128 and hat.png is much larger than that... */
+/* So 32x32 is the best choice.... */
+
+/* SUBSCRIBE ===> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg */
+/* SUBSCRIBE ===> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg */
+/* SUBSCRIBE ===> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg */
